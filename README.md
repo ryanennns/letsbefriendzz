@@ -1,4 +1,4 @@
-Hi, I'm Ryan, and I write mediocre code for mediocre purposes.
+Hi, I'm Ryan. I write average code for average purposes.
 
 I also make music and stuff.
 
