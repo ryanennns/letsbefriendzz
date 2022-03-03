@@ -6,15 +6,15 @@ I also <a href="https://soundcloud.com/friendzzchan">make music and stuff</a>.
 
 Here are some cool projects I've made.
 
-## <a href="https://www.github.com/letsbefriendzz/LCBOscraper/">LCBO Web Scraper</a> in Python
-
-In an attempt to discover the most cost efficient alcohol in the province of Ontario, I wrote a webscraper using the `requests` and `BeautifulSoup` Python libraries to help me gather all 14,000+ LCBO listings and their metadata.
-
 ## <a href="https://www.github.com/letsbefriendzz/pycolours">Colour Format Conversion</a> in Python
 
 I like math. I like colours. I wanted to explore how they're manipulated digitally.
 
 In this program I implemented various RGB / HSV conversion algorithms, and tested using OpenCV.
+
+## <a href="https://www.github.com/letsbefriendzz/LCBOscraper/">LCBO Web Scraper</a> in Python
+
+In an attempt to discover the most cost efficient alcohol in the province of Ontario, I wrote a webscraper using the `requests` and `BeautifulSoup` Python libraries to help me gather all 14,000+ LCBO listings and their metadata.
 
 ## <a href="https://www.github.com/letsbefriendzz/Python2D/">2D Image & GIF Rendering</a> using Python & OpenCV
 
