@@ -1,6 +1,6 @@
 # Hi, I'm Ryan.
 
-I write average code for average purposes.
+I write good code for average purposes.
 
 I also <a href="https://soundcloud.com/friendzzchan">make music and stuff</a>.
 
