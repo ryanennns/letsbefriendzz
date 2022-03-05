@@ -8,7 +8,7 @@ Here are some cool projects I've made.
 
 ## <a href=https://www.github.com/letsbefriendzz/Java-RayCasting/>3D Ray Caster</a> in Java
 
-Currently a heavy work in progress, this project seeks to build a 3D ray caster from the ground up. From my own vector and matrix classes to ray generation, I'm trying to make this entire project with exclusively my own code. 
+This just in: Ryan is rendering unshaded spheres! In this project, I'm creating my own ray tracer from the ground up. Currently working on supporting more complex mesh shapes and implementing lighting.
 
 ## <a href="https://www.github.com/letsbefriendzz/pycolours">Colour Format Conversion</a> in Python
 
