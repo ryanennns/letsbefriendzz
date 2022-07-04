@@ -18,6 +18,8 @@ In this program I implemented various RGB / HSV conversion algorithms, and teste
 
 ## <a href="https://www.github.com/letsbefriendzz/LCBOscraper/">LCBO Web Scraper</a> in Python
 
+Sadly deprecated due to LCBO.com updates :(
+
 In an attempt to discover the most cost efficient alcohol in the province of Ontario, I wrote a webscraper using the `requests` and `BeautifulSoup` Python libraries to help me gather all 14,000+ LCBO listings and their metadata.
 
 ## <a href="https://www.github.com/letsbefriendzz/Python2D/">2D Image & GIF Rendering</a> using Python & OpenCV
