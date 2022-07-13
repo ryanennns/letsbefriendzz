@@ -16,11 +16,9 @@ I like math. I like colours. I wanted to explore how they're manipulated digital
 
 In this program I implemented various RGB / HSV conversion algorithms, and tested using OpenCV.
 
-## <a href="https://www.github.com/letsbefriendzz/LCBOscraper/">LCBO Web Scraper</a> in Python
+## <a href="https://github.com/letsbefriendzz/LCBO-API-Ripper">LCBO API Ripper</a> in Python
 
-Sadly deprecated due to LCBO.com updates :(
-
-In an attempt to discover the most cost efficient alcohol in the province of Ontario, I wrote a webscraper using the `requests` and `BeautifulSoup` Python libraries to help me gather all 14,000+ LCBO listings and their metadata.
+After the LCBO killed my previous webscraper by updating their website to being entirely JavaScript and AJAX based, I sleuthed my way into accessing their API to snag all their product data.
 
 ## <a href="https://www.github.com/letsbefriendzz/Python2D/">2D Image & GIF Rendering</a> using Python & OpenCV
 
